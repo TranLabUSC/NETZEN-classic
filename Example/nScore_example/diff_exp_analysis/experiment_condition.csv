@@ -1,0 +1,6 @@
+network gene_ex_stat consider_positive_values_only fdr_to_confidence step top_gene_statistics gene_statistics_list nround edge_weight weight_power step_power steps_combined step_normalization input_normalization top_genes use_rank master_genes source_node_inclusion neighbor_aggregation_method verbose index cmd gene_index batch_size outdir help
+human_immune_network.csv diff_exp_analysis.txt TRUE FALSE 2 pvalue logFC,fdr,betweenness 1 unw 1 0 TRUE FALSE FALSE 0.2 FALSE POU5F1 s s TRUE 1 run 1 5 nScore FALSE
+human_immune_network.csv diff_exp_analysis.txt TRUE FALSE 2 pvalue logFC,fdr,betweenness 1 unw 1 0 TRUE FALSE FALSE 0.2 FALSE SOX2 s s TRUE 1 run 1 5 nScore FALSE
+human_immune_network.csv diff_exp_analysis.txt TRUE FALSE 2 pvalue logFC,fdr,betweenness 1 unw 1 0 TRUE FALSE FALSE 0.2 FALSE MYCN s s TRUE 1 run 1 5 nScore FALSE
+human_immune_network.csv diff_exp_analysis.txt TRUE FALSE 2 pvalue logFC,fdr,betweenness 1 unw 1 0 TRUE FALSE FALSE 0.2 FALSE NANOG s s TRUE 1 run 1 5 nScore FALSE
+human_immune_network.csv diff_exp_analysis.txt TRUE FALSE 2 pvalue logFC,fdr,betweenness 1 unw 1 0 TRUE FALSE FALSE 0.2 FALSE LIN28A s s TRUE 1 run 1 5 nScore FALSE

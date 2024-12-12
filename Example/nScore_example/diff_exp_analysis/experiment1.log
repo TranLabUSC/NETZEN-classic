@@ -1,0 +1,15 @@
+Beginning calculation:  Thu Dec 12 03:03:16 PM 2024 
+Master_genes: POU5F1 
+ Master_genes: SOX2 
+ Master_genes: MYCN 
+ Master_genes: NANOG 
+ Master_genes: LIN28A 
+=================================================================================================
+zero master genes found in the ranking score. Master genes are out of top genes. 
+Run time: 6.91 
+ Run time: 0.118 
+ Run time: 7.169 
+ Run time: 0 
+ Run time: 0 
+Experiment finished, result saved in  result.Rdata 
+=================================================================================================
